@@ -1,16 +1,6 @@
 # assignment2
 
-A new Flutter project.
+## Student Name: Owen Musselman
+## Student ID: 100657709
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Everything is contained on main.dart, pubspec.yaml, and images directory.
